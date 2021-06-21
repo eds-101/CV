@@ -34,18 +34,18 @@ I have been keen to pursue a career in software development for a number of year
 * Supported a redundancy process, coordinating the activities between four departments. I was responsible for project comms, documentation, progress reporting and stakeholder management. Led to increased stakeholder confidence and improved project communication.
 * Used negotiation and problem solving skills to find solutions to blockers affecting task completion e.g. competing resource demands.
 
-### iSocial - Business Development Manager ** (Oct 2020 to Dec 2020)  
+### iSocial - Business Development Manager * (Oct 2020 to Dec 2020)  
 
 * Responsible for designing and executing a marketing and sales strategy for a social media agency, exceeding revenue targets via increased use of technology and more focussed approach to selling.
 * Sourced CRM with automated marketing campaigns and setup trackers to follow key accounts across various platforms. Decisive in assessing current working practices and recommending improved working processes.
 
-### The Premier League - Insight Analyst ** (2017 to 2018)  
+### The Premier League - Insight Analyst * (2017 to 2018)  
 
 * Dedicated technical support for the Legal team to progress anti-piracy initiatives and promote use of technology and data for decision making. Included development of self-motivation skills to work in environments resistant to using new technology and modern ways of working.
 * Successfully met strategic initiative to increase broadcaster knowledge on piracy by taking on personal project to create 2D animated explainer video.
 * Improved data quality and management by delivering project to implement self-service analytics dashboards for the business, taking responsibility to consult and work closely with colleagues to ensure they used new service.
 
-### KPMG - Management Consultant, Technology Advisory ** (2014 to 2017)  
+### KPMG - Management Consultant, Technology Advisory * (2014 to 2017)  
 
 * Completed Graduate scheme and promoted to assistant manager as part of IT Strategy and CIO/CTO projects as a project analyst or part of the delivery team.
 * Led in organising, analysis and documenting of output from various client workshops and onboarding sessions which enriched project evidence and supported analysis.
